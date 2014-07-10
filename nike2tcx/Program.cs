@@ -6,7 +6,7 @@ using CommandLine;
 using CommandLine.Text;
 using net.sf.saxon;
 
-namespace EndoSync
+namespace nike2tcx
 {
     public class Options
     {
